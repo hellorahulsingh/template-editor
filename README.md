@@ -4,6 +4,12 @@ A simple React-based WYSIWYG (What You See Is What You Get) template editor and 
 
 ---
 
+## 📸 Sample Screenshot
+
+<img src="./sample.png" alt="Template Editor Screenshot" width="100%" />
+
+---
+
 ## 🚀 Features
 
 - Rich text editing using React Quill (Quill v2)
@@ -22,5 +28,5 @@ A simple React-based WYSIWYG (What You See Is What You Get) template editor and 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/hellorahulsingh/template-editor.git
+git clone https://github.com/your-username/template-editor.git
 cd template-editor
